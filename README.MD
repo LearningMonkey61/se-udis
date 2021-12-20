@@ -1,7 +1,9 @@
 # To add to this repository
 
-- [ ] SRS Document
+- [x] SRS Document
 - [ ] PPT
-- [ ] SA/SD Document
-- [ ] UML Document
+- [x] SA/SD Document
+- [x] UML Document
 - [ ] Codebase (sanitised)
+- [ ] Contribution Document
+ 
